@@ -1,7 +1,7 @@
 import React from "react";
 import slider from "./assets/slider.png";
 
-
+     
 
 
 function Client(){

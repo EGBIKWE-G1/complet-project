@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import "./Newp.css";
-import "./Main.css";
+import "./Main.css"; 
 import logo from "./assets/logo.png";
 import Header from "./Header";
 import About from "./About";
